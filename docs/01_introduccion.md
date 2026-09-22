@@ -33,3 +33,5 @@ Evolucionar y consolidar la infraestructura informática de GamerCore Studios S.
 | Desarrolladores y Diseñadores | Usuarios finales internos | Disponer de almacenamiento rápido, baja latencia y alta disponibilidad. |
 | Equipo de Administración / IT | Operadores del sistema | Contar con monitorización centralizada, alertas y despliegues automatizados. |
 | Inversores y Clientes | Usuarios externos | Acceder a un portal web corporativo ágil y con documentación actualizada. |
+
+> **Nota del proyecto:** Este documento sirve como base técnica para la infraestructura del estudio GamerCore Studios durante el curso 2.º ASIR.
