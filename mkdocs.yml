@@ -3,3 +3,5 @@ site_name: Proyecto Intermodular ASIR - GamerCore Studios
 nav:
   - Inicio: index.md
   - Introducción: 01_introduccion.md
+  - Planificación: 02_planificacion.md
+  
