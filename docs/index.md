@@ -1,8 +1,8 @@
-# Inicio - Portal de Documentación
+# Proyecto Intermodular ASIR
 
-Bienvenido a la documentación técnica oficial de la infraestructura de **GamerCore Studios S.L.**
+Bienvenido a la documentación oficial del Proyecto Intermodular de ASIR.
 
-En este portal encontrarás la planificación, arquitectura de red, gestión de servidores y servicios desplegados para el proyecto intermodular.
+## Resumen del Proyecto
+Este portal contiene la documentación técnica, marco tecnológico, proceso de desarrollo y conclusiones del proyecto.
 
-## Navegación rápida
-- [Introducción al Proyecto](01_introduccion.md): Contexto, problemáticas y objetivos.
+Utiliza el menú de navegación para explorar las distintas secciones.
