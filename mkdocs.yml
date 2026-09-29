@@ -3,8 +3,9 @@ site_name: Proyecto Intermodular ASIR - GamerCore Studios
 nav:
   - Inicio: index.md
   - Introducción: 01_introduccion.md
-  - Marco Tecnologico: 02_marco_tecnologico.md
+  - Marco Tecnológico: 02_marco_tecnologico.md
   - Desarrollo: 03_desarrollo.md
-  - Resultado: 04_resultados.md
+  - Resultados: 04_resultados.md
   - Conclusiones: 05_conclusiones.md
-  - Bibliografia: 06_bibliografia.md
+  - Bibliografía: 06_bibliografia.md
+  - Anexos: 07_anexos.md
