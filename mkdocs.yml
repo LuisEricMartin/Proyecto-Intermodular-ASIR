@@ -3,8 +3,8 @@ site_name: Proyecto Intermodular ASIR - GamerCore Studios
 nav:
   - Inicio: index.md
   - Introducción: 01_introduccion.md
-  - Planificación: 02_planificacion.md
-  - Arquitectura de Red: 03_arquitectura_red.md
-  - Servicios Base: 04_servicios_base.md
-  - Servicios Avanzados: 05_servicios_avanzados.md
-  - Pruebas y Validación: 06_pruebas_y_validacion.md
+  - Marco Tecnologico: 02_marco_tecnologico.md
+  - Desarrollo: 03_desarrollo.md
+  - Resultado: 04_resultados.md
+  - Conclusiones: 05_conclusiones.md
+  - Bibliografia: 06_bibliografia.md
