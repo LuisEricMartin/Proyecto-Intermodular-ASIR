@@ -4,4 +4,4 @@ nav:
   - Inicio: index.md
   - Introducción: 01_introduccion.md
   - Planificación: 02_planificacion.md
-  
+  - Arquitectura de Red: 03_arquitectura_red.md
